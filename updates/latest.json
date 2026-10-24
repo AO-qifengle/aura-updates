@@ -4,7 +4,11 @@
   "build": 67,
   "minimumMacOS": "15.0",
   "architecture": "arm64",
-  "downloadURL": "https://github.com/AO-qifengle/aura-updates/releases/download/V0.5.5.0-build67/Aura-Demo-V0.5.5.0-build67-arm64.dmg",
+  "downloadURL": "https://cdn.jsdelivr.net/gh/AO-qifengle/aura-updates@main/updates/Aura-Demo-V0.5.5.0-build67-arm64.dmg",
+  "downloadMirrors": [
+    "https://github.com/AO-qifengle/aura-updates/releases/download/V0.5.5.0-build67/Aura-Demo-V0.5.5.0-build67-arm64.dmg",
+    "https://ao-qifengle.github.io/aura-updates/updates/Aura-Demo-V0.5.5.0-build67-arm64.dmg"
+  ],
   "sha256": "7fb642c8579d31ca8c0d95bee211cb94d74c0998c0f1e8132eee362699dcf9f1",
   "releaseNotesURL": "https://ao-qifengle.github.io/aura-updates/updates/V0.5.5.0.html",
   "publishedAt": "2026-10-19T03:32:57Z"
